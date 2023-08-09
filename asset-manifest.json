@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Aneact-app/static/css/main.2543b9d3.css",
+    "main.js": "/Aneact-app/static/js/main.29313935.js",
+    "static/js/787.28cb0dcd.chunk.js": "/Aneact-app/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/Aneact-app/index.html",
+    "main.2543b9d3.css.map": "/Aneact-app/static/css/main.2543b9d3.css.map",
+    "main.29313935.js.map": "/Aneact-app/static/js/main.29313935.js.map",
+    "787.28cb0dcd.chunk.js.map": "/Aneact-app/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2543b9d3.css",
+    "static/js/main.29313935.js"
+  ]
+}
